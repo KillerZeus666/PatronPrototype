@@ -1,5 +1,5 @@
 /*
- * Asignatura: Patrones de Diseño de Software 
+ * Asignatura: Patrones de Diseño de Software
  * Patrón Creacional - > Prototype
  * Tipo de Clase: Main()
  */
